@@ -17,7 +17,6 @@ Welcome to EATWELL, a one-page responsive restaurant website designed to showcas
 - Responsive layout optimized for various devices, including desktops, tablets, and smartphones.
 - Interactive menu section with mouth-watering food images and descriptions.
 - Contact form for inquiries and reservations.
-- Social media links for staying connected with our restaurant.
 
 ## Technologies Used
 
@@ -33,3 +32,35 @@ To view this website locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/eatwell-restaurant.git
+   ```
+
+2. Navigate the project directory
+    ```bash
+    cd eatwell-bootstrap
+    ```
+3. Open the `index.html` file in your web browser to view the website.
+
+## Usage
+
+Explore the different sections of the website:
+Home: Overview of the restaurant and featured dishes.
+Menu: Interactive slideshow showcasing our menu items.
+About Us: Information about our restaurant's history and mission.
+Contact: Form for inquiries, feedback, and reservations.
+Interact with the menu slideshow to view various dishes and their descriptions.
+Fill out the contact form to get in touch with us for any queries or reservations.
+
+## Contributing
+
+We welcome contributions to enhance the EATWELL restaurant website. If you'd like to contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/your-feature-name).
+Make your changes.
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature/your-feature-name).
+Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE] file for details.
