@@ -44,11 +44,13 @@ To view this website locally, follow these steps:
 
 Explore the different sections of the website:
 Home: Overview of the restaurant and featured dishes.
+About: Information about our restaurant's history and mission.
+Offer: Details of available offers.
 Menu: Interactive slideshow showcasing our menu items.
-About Us: Information about our restaurant's history and mission.
+News: Articles about our restaurant's food and menu.
+Gallery: Photos of our exotic dishes.
 Contact: Form for inquiries, feedback, and reservations.
-Interact with the menu slideshow to view various dishes and their descriptions.
-Fill out the contact form to get in touch with us for any queries or reservations.
+Interact with the carousel of menu to view various dishes and their descriptions.
 
 ## Contributing
 
