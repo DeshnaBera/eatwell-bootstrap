@@ -31,7 +31,7 @@ To view this website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/eatwell-restaurant.git
+   git clone https://github.com/your-username/eatwell-bootstrap.git
    ```
 
 2. Navigate the project directory
